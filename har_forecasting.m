@@ -66,5 +66,3 @@ end
 
 RMSE = sqrt(mean(errors.^2));
 end
-
-
