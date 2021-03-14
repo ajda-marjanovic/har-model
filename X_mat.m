@@ -20,4 +20,3 @@ end
 X_matrix = [series RV_w RV_m];
 
 end
-
